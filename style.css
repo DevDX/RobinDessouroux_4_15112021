@@ -1062,11 +1062,14 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .bloc-xxl,.h2form, /*rdx*/
+    .bloc-xxl,
     .bloc-xl,
     .bloc-lg {
         padding: 40px 0;
     }
+    .h2form{
+        margin-left:2px;    
+    } /*rdx*/
     .bloc-sm,
     .bloc-md {
         padding-left: 0;
