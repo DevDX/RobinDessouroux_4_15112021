@@ -18,7 +18,7 @@ body {
 
 .auteur {
     margin:0 auto; 
-    font-size:12px;
+    font-size:14px;
 }
 
 figure {
@@ -751,7 +751,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: /*11px;rdx*/15px;
 }
 
 .tight-width-whitespace {
