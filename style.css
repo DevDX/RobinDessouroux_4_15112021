@@ -1062,7 +1062,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .bloc-xxl,
+    .bloc-xxl,.h2form, /*rdx*/
     .bloc-xl,
     .bloc-lg {
         padding: 40px 0;
