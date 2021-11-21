@@ -962,8 +962,8 @@ h4 {
     .bloc {
         /*padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right); rdx */
-        padding: env(safe-area-inset-left);
-        padding: env(safe-area-inset-right);
+        padding:    env(safe-area-inset-left)
+                    env(safe-area-inset-right);
     }
     .bloc-group,
     .bloc-group .bloc {
@@ -975,8 +975,8 @@ h4 {
         padding: 0 20px;
         /*padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);*/
-        padding: env(safe-area-inset-left);
-        padding: env(safe-area-inset-right);
+        padding:    env(safe-area-inset-left)
+                    env(safe-area-inset-right);
     }
 }
 
