@@ -164,8 +164,12 @@ a:hover {
 }
 
 .texture-paper::before {
-    /*background: url("img/texture-paper.webp");rdx*/
-    background: #c27956!important; /* rdx */
+    background: url("img/texture-paper.webp");   
+    background-size: 280px 280px;
+}
+
+.texture-paperP2::before {
+    background: #FFBB7D!important; /* rdx */
     background-size: 280px 280px;
 }
 
